@@ -2,3 +2,9 @@ body{
 	font-family: Arial, sans-serif;
 	font-size:13px;
 }
+
+#container{
+	width:580px;
+	margin:140px auto 0;
+	text-align:center;
+}
